@@ -1,0 +1,6 @@
+field_name_generic,node_name,question,help_entry,class_1_name_in_network,class_1_name_to_show,Class_2_name_in_network,Class_2_name_to_show,Class_3_name_in_network,Class_3_name_to_show,class_4_name_in_network,Class_4_name_to_show,Class_5_name_in_network,Class_5_name_to_show
+Symptom_1,EPT,What is the proportion of EPT specimens in the community (%),"EPT refers to the insect orders Ephemeroptera, Plecoptera and Trichoptera",Low,Low (<30),Medium,Medium (30-50),High,High (>50),,,,
+Symptom_2,Grazer,What is the proportion of grazers (%),Grazers feed on algae and biofilm,Low,Low (<5),Medium,Medium (5-15),High,High (>15),,,,
+Symptom_3,SI,What is the saprobic status,The saprobic status is derived from the German Saprobic Index (values in brackets),Low,Low (>2.5),Medium,Medium (2.0-2.5),High,High (<2.0),,,,
+Symptom_4,ASPT,What is the Average Score per Taxon,This index (ASPT) is part of the British RIVPACS assessment system,Low,Low (<5),Medium,Medium (5-6.5),High,High (>6.5),,,,
+Symptom_5,Shredder,What is the proportion of shredders (%),Shredders feed on coarse particulate organic matter (CPOM),Low,Low (<20),Medium,Medium (20-40),High,High (>40),,,,

@@ -1,0 +1,10 @@
+parameter,value,explanation
+network_file_name,BN_MZB_Catch_2_trained_for_bnlearn.net,
+main_tab_title,Catchment-scale Diagnosis,
+radar_chart_title,Potential causes of deterioration,
+threshold_slider_min,1,in percent
+threshold_slider_default,30,in percent
+threshold_slider_max,40,in percent
+main_tab_info,model_description_dia.html,diagnostic plot tab
+hierarchy_tab_info,hierarchy_dia.html,causal hierarchy tab
+read_more_tab_info,readmore_dia.html,read more tab

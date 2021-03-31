@@ -1,0 +1,9 @@
+parameter,value,explanation
+main_tab_title,Catchment-scale Prognosis,
+radar_chart_title,Potential biological deterioration,
+threshold_slider_min,2,in percent
+threshold_slider_default,20,in percent
+threshold_slider_max,45,in percent
+main_tab_info,model_description_pro.html,prognostic plot tab
+hierarchy_tab_info,hierarchy_pro.html,causal hierarchy tab
+read_more_tab_info,readmore_pro.html,read more tab
